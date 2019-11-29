@@ -1,0 +1,21 @@
+RESTAURANT BILL CALCULATOR VER2.0 IN PYTHON
+
+
+**Login Details**
+
+Username: harry
+Password: 1234
+
+
+**Developed By Pankaj Tokas*
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+
+
+#THANK YOU FOR DOWNLOADING
